@@ -59,7 +59,7 @@ Certiscore quantifies how confident a decision is, based on **reaction time**:
 
 ---
 
-## 🗳️ Suggestive Recommendations (New in Certiscore)
+## 🗳️ Suggestive Recommendations
 
 A breakthrough in the Certiscore Method is **majority-vote–based suggestions** for **priority rankers**:
 
