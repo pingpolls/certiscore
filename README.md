@@ -1,7 +1,14 @@
 ---
 title: Certiscore Method
-description: Certiscore is a fast, scientific decision-making method that ranks preferences and confidence, now enhanced with smart majority-vote suggestions.
-lastUpdated: 2025-08-22T08:47:47.000Z
+subtitle: Certiscore is a fast, scientific decision-making method that ranks preferences and confidence, now enhanced with smart majority-vote suggestions.
+author: pingpolls
+type: minimalist
+keywords:
+  - pingpolls
+  - certiscore
+excerpt: 
+cover: 
+date: 2025-08-22T08:47:47.000Z
 ---
 
 ## 🧠 Overview
@@ -139,7 +146,7 @@ Certiscore is the next step in preference science:
     <a href="https://github.com/pingpolls/certiscore">Certiscore</a>
     <span>© 2025 by</span>
     <a href="https://pingpolls.com">
-        PingPolls
+        PT Internet Respons Lab
     </a>
     <span>is licensed under</span>
     <a href="https://creativecommons.org/licenses/by-sa/4.0/">
@@ -147,7 +154,7 @@ Certiscore is the next step in preference science:
     </a>
     <br/>
     <small>
-        "Certiscore" is a trademark of PingPolls.
+        "Certiscore" is a trademark of PT Internet Respons Lab which operated in the brand name of "PingPolls".
         The method itself is open and shared under CC BY-SA 4.0.
     </small>
     <br/>
