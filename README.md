@@ -158,7 +158,7 @@ Certiscore is the next step in preference science:
         The method itself is open and shared under CC BY-SA 4.0.
     </small>
     <br/>
-    <img alt="CC" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" class="inline h-4"/>
-    <img alt="Attribution" src="https://mirrors.creativecommons.org/presskit/icons/by.svg" class="inline h-4"/>
-    <img alt="SA" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" class="inline h-4"/>
+    <img alt="CC" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" class="inline h-4 not-prose"/>
+    <img alt="Attribution" src="https://mirrors.creativecommons.org/presskit/icons/by.svg" class="inline h-4 not-prose"/>
+    <img alt="SA" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" class="inline h-4 not-prose"/>
 </div>
