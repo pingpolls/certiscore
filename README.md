@@ -137,12 +137,8 @@ We disclose the science, keep methods peer-reviewable, and protect implementatio
 > 🧪 **Disclaimer**
 > Certiscore™ metrics are based on internal simulations. Results are reliable in practice but not peer-reviewed. For academic collaboration, [contact us](https://pingpolls.com/feedback).
 
----
-
-Certiscore™ is the next step in preference science:
-**accurate, efficient, privacy-first, and suggestion-enabled.**
-
 <div>
+    <span>Certiscore™ is the next step in preference science: accurate, efficient, privacy-first, and suggestion-enabled.</span>
     <a href="https://github.com/pingpolls/certiscore">Certiscore™</a>
     <span>is a trademark of</span>
     <a href="https://pingpolls.com">
@@ -150,7 +146,7 @@ Certiscore™ is the next step in preference science:
     </a>
     <span>which operated in the brand name of "PingPolls". The method itself is open and shared under</span>
     <a href="https://creativecommons.org/licenses/by-sa/4.0/">
-        Creative Commons Attribution-ShareAlike 4.0 International
+        Creative Commons Attribution-ShareAlike 4.0 International.
     </a>
     <br/>
     <img alt="CC" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" class="inline h-4 not-prose"/>
