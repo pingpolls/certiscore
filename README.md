@@ -1,6 +1,6 @@
 ---
-title: Certiscore Method
-subtitle: Certiscore is a fast, scientific decision-making method that ranks preferences and confidence, now enhanced with smart majority-vote suggestions.
+title: Certiscore™ Method
+subtitle: Certiscore™ is a fast, scientific decision-making method that ranks preferences and confidence, now enhanced with smart majority-vote suggestions.
 author: pingpolls
 type: minimalist
 keywords:
@@ -13,7 +13,7 @@ date: 2025-08-22T08:47:47.000Z
 
 ## 🧠 Overview
 
-Welcome to **PingPolls**, where decision-making is fast, transparent, and scientifically precise. Our **Certiscore Method** works by combining pairwise preference ranking, psychophysical modeling, and **Certainty Scores**. With Certiscore, we not only measure *what you prefer* but also *how confident you are*—and now we go further with **suggestive recommendations** powered by majority votes.
+Welcome to **PingPolls**, where decision-making is fast, transparent, and scientifically precise. Our **Certiscore™ Method** works by combining pairwise preference ranking, psychophysical modeling, and **Certainty Scores**. With Certiscore™, we not only measure *what you prefer* but also *how confident you are*—and now we go further with **suggestive recommendations** powered by majority votes.
 
 This means:
 
@@ -26,7 +26,7 @@ This means:
 
 ## 📈 The Science of Preferences
 
-The Certiscore Method integrates **graph theory**, **reaction-time analysis**, and **majority-vote heuristics** to deliver accurate, efficient rankings.
+The Certiscore™ Method integrates **graph theory**, **reaction-time analysis**, and **majority-vote heuristics** to deliver accurate, efficient rankings.
 
 ### Pairwise Comparisons & Transitive Reduction
 
@@ -34,13 +34,13 @@ When you choose one item (A) over another (B), we record this as a directed edge
 
 * **Classic Cost:** For $ n $ items, full pairwise requires $ C(n,2) = \tfrac{n(n-1)}{2} $.
 * **Average case:** ~44% of $ C(n,2) $ at $ n=15 $.
-* **Certiscore Upgrade:** With suggestive recommendations, **priority rankers can resolve preferences in as little as $n-1$ steps**—a near-linear effort instead of quadratic.
+* **Certiscore™ Upgrade:** With suggestive recommendations, **priority rankers can resolve preferences in as little as $n-1$ steps**—a near-linear effort instead of quadratic.
 
 ---
 
 ## 🧮 Certainty Scores
 
-Certiscore quantifies how confident a decision is, based on **reaction time**:
+Certiscore™ quantifies how confident a decision is, based on **reaction time**:
 
 1. **Reaction Time Normalization (Weber–Fechner Law):**
    Log-scaling keeps proportional differences meaningful (e.g., 500ms vs 1000ms).
@@ -68,7 +68,7 @@ Certiscore quantifies how confident a decision is, based on **reaction time**:
 
 ## 🗳️ Suggestive Recommendations
 
-A breakthrough in the Certiscore Method is **majority-vote–based suggestions** for **priority rankers**:
+A breakthrough in the Certiscore™ Method is **majority-vote–based suggestions** for **priority rankers**:
 
 * As participants make comparisons, we aggregate results dynamically.
 * Once a majority preference pattern emerges, the system can *suggest the next most likely order* for remaining items.
@@ -81,7 +81,7 @@ This makes priority ranking **as fast as a simple ordering task**, while retaini
 
 ## 📊 Outputs & Insights
 
-* **Ranked Scores:** Final list with Certiscore-adjusted values (scaled 0–1000).
+* **Ranked Scores:** Final list with Certiscore™-adjusted values (scaled 0–1000).
 * **Head-to-Head Probabilities:** Via Bradley–Terry:
 
   $$
@@ -94,7 +94,7 @@ This makes priority ranking **as fast as a simple ordering task**, while retaini
 
 ## 🔁 Smart Pair Selection & Early Stopping
 
-Certiscore continues to optimize comparisons by:
+Certiscore™ continues to optimize comparisons by:
 
 * Prioritizing unresolved or uncertain pairs,
 * Skipping inferred relationships,
@@ -118,7 +118,7 @@ Certiscore continues to optimize comparisons by:
 
   * Classic pairwise ( $ C(n,2) $ ): 105 comparisons at $ n=15 $.
   * Average (\~44%): \~46 comparisons.
-  * Certiscore (with suggestions): \~14 comparisons (≈ $ n-1 $ ).
+  * Certiscore™ (with suggestions): \~14 comparisons (≈ $ n-1 $ ).
 
 This translates into **faster surveys** with equally robust insights.
 
@@ -135,15 +135,15 @@ We disclose the science, keep methods peer-reviewable, and protect implementatio
 ---
 
 > 🧪 **Disclaimer**
-> Certiscore metrics are based on internal simulations. Results are reliable in practice but not peer-reviewed. For academic collaboration, [contact us](https://pingpolls.com/feedback).
+> Certiscore™ metrics are based on internal simulations. Results are reliable in practice but not peer-reviewed. For academic collaboration, [contact us](https://pingpolls.com/feedback).
 
 ---
 
-Certiscore is the next step in preference science:
+Certiscore™ is the next step in preference science:
 **accurate, efficient, privacy-first, and suggestion-enabled.**
 
 <div>
-    <a href="https://github.com/pingpolls/certiscore">Certiscore</a>
+    <a href="https://github.com/pingpolls/certiscore">Certiscore™</a>
     <span>© 2025 by</span>
     <a href="https://pingpolls.com">
         PT Internet Respons Lab
@@ -154,7 +154,7 @@ Certiscore is the next step in preference science:
     </a>
     <br/>
     <small>
-        "Certiscore" is a trademark of PT Internet Respons Lab which operated in the brand name of "PingPolls".
+        Certiscore™ is a trademark of PT Internet Respons Lab which operated in the brand name of "PingPolls".
         The method itself is open and shared under CC BY-SA 4.0.
     </small>
     <br/>
