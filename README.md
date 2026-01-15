@@ -144,19 +144,14 @@ Certiscore™ is the next step in preference science:
 
 <div>
     <a href="https://github.com/pingpolls/certiscore">Certiscore™</a>
-    <span>© 2025 by</span>
+    <span>is a trademark of</span>
     <a href="https://pingpolls.com">
         PT Internet Respons Lab
     </a>
-    <span>is licensed under</span>
+    <span>which operated in the brand name of "PingPolls". The method itself is open and shared under</span>
     <a href="https://creativecommons.org/licenses/by-sa/4.0/">
         Creative Commons Attribution-ShareAlike 4.0 International
     </a>
-    <br/>
-    <small>
-        Certiscore™ is a trademark of PT Internet Respons Lab which operated in the brand name of "PingPolls".
-        The method itself is open and shared under CC BY-SA 4.0.
-    </small>
     <br/>
     <img alt="CC" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" class="inline h-4 not-prose"/>
     <img alt="Attribution" src="https://mirrors.creativecommons.org/presskit/icons/by.svg" class="inline h-4 not-prose"/>
